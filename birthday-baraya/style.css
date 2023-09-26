@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&family=Inter:wght@200;800&family=Jost:wght@400;500;600;700&family=Montserrat:wght@200;500;800&family=Oxygen:wght@300;400;700&family=Poppins:wght@100;300;400;500;600;700&display=swap');
+
+* {
+    font-family: Poppins;
+}
+
+.wrapper {
+    background-image: url("./assets/Backgroundd.png");
+    background-repeat: no-repeat;
+    margin-right: auto;
+    margin-left:auto;
+    width: 400px;
+    background-size: 400px;
+    height: 1000px;
+}
+
+.logo {
+    background-color: white;
+    width: 130px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+.logoBaraya {
+    width: 110px;
+    margin-right: auto;
+    margin-left:auto;
+    margin-left: 8px;
+}
+
+.birthday {
+    width: 290px;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+.logoBirthday {
+    width:300px;
+    margin-top: 20px;
+}
+
+.name {
+    background-color: white;
+    width: 85%;
+    height: 38px;
+    margin-right: auto;
+    margin-left:auto;
+    border-radius: 20px;
+    box-shadow: 6px 9px 3px -3px rgba(0,0,0,0.75);
+}
+
+.fullName {
+    color: #293F7C;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 4px;
+    font-size: 19px;
+}
+
+.wish {
+    margin-top: 30px;
+    width: 70%;
+    height: 35px;
+    margin-right: auto;
+    margin-left:auto;
+} 
+
+.wish img {
+
+}
